@@ -4,5 +4,10 @@
 // 2. git add
 // 3. git push
 
-//TEST
+// 1. git pull origin master
+// 2. git reset
+// 3. git checkout -- [FILENAME.TXT]
+// 4. git checkout -- allows you to "undo" the previous commits made to that file
+// 5. in  case you made a mistake in your last commit
+
 
