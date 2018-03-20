@@ -10,4 +10,5 @@
 // 4. git checkout -- allows you to "undo" the previous commits made to that file
 // 5. in  case you made a mistake in your last commit
 
-
+// 1. git merge allows you to combine the edits made from a branch into the master repo. submitting a pull request is a good idea when you're working collaboratively and want to make sure there are not conflicts.
+// 2. git push
