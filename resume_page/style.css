@@ -12,3 +12,10 @@ h3 {
 	color: green;
 }
 
+.column {
+	width: 150px;
+	float: left;
+	border-right:2px solid black;
+	border-left: 2px solid black;
+}
+
